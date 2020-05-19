@@ -1,0 +1,22 @@
+
+#+title: événement OPF : Outils pour l'édition adaptée et Inclusive
+#+subtitle: 
+#+language: fr
+#+date: 2020-05-20
+#+tags[]: 
+#+draft: false
+#+author: Chomel, Gautier;
+
+éditadapt participe au [[https://openpublishingfest.org/][Open Publishing Fest]], un événement public et décentralisé pour permettre la rencontre des communautées travaillant sur les publications en format ouvert. 
+Nous présentons quelques outils intégrables à vos flux de travail pour assurer l'accés le plus large possible aux contenus publiés. 
+
+  //L'édition numérique porte l'opportunité technique d'améliorer l'accès aux connaissances pour les personnes empêchés de lire. Un voyage au coeur des échanges culturels entre les organisations spécialisées et les éditeurs pour découvrir quelques uns des outils, dispositifs et bonnes pratiques qui bénéficieront à tous les lecteurs.//
+
+** Lien pour la conférence 
+[[https://8x8.vc/editadapt/opffr]]
+
+** Ressources : 
+- [[https://www.accessiblebooksconsortium.org/portal/fr/index.html][Site web du Consortium pour des Livres Accessibles (ABC)]]
+- [[https://daisy.org][Site web du Consortium Daisy (en anglais)]]
+- [[http://daisy-france.org][Site web du groupe de travail DAISY France]]
+- [[https://kb.daisy.org][Base de connaissance]]
