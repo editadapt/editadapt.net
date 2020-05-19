@@ -1,10 +1,10 @@
 
-#+title: événement OPF : Outils pour l'édition adaptée et Inclusive
+#+title: événement OPF : Outils pour l'édition adaptée et Inclusive;
 #+subtitle: 
-#+language: fr
-#+date: 2020-05-20
+#+language: fr;
+#+date: 2020-05-20;
 #+tags[]: 
-#+draft: false
+#+draft: false;
 #+author: Chomel, Gautier;
 
 éditadapt participe au [[https://openpublishingfest.org/][Open Publishing Fest]], un événement public et décentralisé pour permettre la rencontre des communautées travaillant sur les publications en format ouvert. 

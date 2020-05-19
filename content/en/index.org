@@ -1,10 +1,10 @@
 
-#+title: OPF event: tools for accessible and inclusive publishing worflows
-#+subtitle: 
-#+language: en
-#+date: 2020-05-20
-#+tags[]: 
-#+draft: false
+#+title: OPF event: tools for accessible and inclusive publishing worflows;
+#+subtitle: OPF;
+#+language: en;
+#+date: 2020-05-20;
+#+tags[]: OPF;
+#+draft: false;
 #+author: Chomel, Gautier;
 
 During [[https://openpublishingfest.org/][Open Publishing Fest]], a decentralized public event that brings together communities supporting open source software, open content, and open publishing models, editadapat presents some tools to ensure our worklows delivers contents accessibles to a larger readers needs. 

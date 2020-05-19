@@ -1,10 +1,10 @@
 
-#+title: Evento OPF : herramientas para edición accesible y inclusiva
+#+title: Evento OPF : herramientas para edición accesible y inclusiva;
 #+subtitle: 
-#+language: es
-#+date: 2020-05-20
+#+language: es;
+#+date: 2020-05-20;
 #+tags[]: 
-#+draft: false
+#+draft: false;
 #+author: Chomel, Gautier;
 
 Editadapt participa al [[https://openpublishingfest.org/][Open Publishing Fest]], un evento publico decentralizado para encontrar organizaciones implicadas en publicaciones abiertas. Presentamos algunas herramientas para asegurar que sus publicaciones sean accessible a la mayoria, incluyendo quienes no pueden aceder a la informacion imprimida. 

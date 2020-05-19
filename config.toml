@@ -1,9 +1,7 @@
 baseURL = "https://editadapt.net/"
-languageCode = "fr"
 title = "éditadapt"
 subtitle = ""
 #theme = "terrassa"
-
 theme = "zen"
 
 DefaultContentLanguage = "fr"
@@ -14,15 +12,18 @@ copyright = "GPL"
     title = "Servicios para édiciòn inclusiva y adaptada"
     languageName = "Español"
     contentDir = "content/es"
+    languageCode = "es"
     weight = 1
   [languages.en]
     title = "Services for inclusive and specialized publishing"
     languageName = "English"
     contentDir = "content/en"
+    languageCode = "en"
     weight = 2
   [languages.fr]
     title = "Services pour l'édition inclusive et adaptée"
     languageName = "Français"
     contentDir = "content/fr"
+    languageCode = "fr"
     weight = 3
 
