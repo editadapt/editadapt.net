@@ -1,5 +1,5 @@
 
-#+title: événement OPF : Outils pour l'édition adaptée et Inclusive;
+#+title: événement OPF : Outils pour l'édition adaptée et Inclusive
 #+subtitle: 
 #+language: fr;
 #+date: 2020-05-20;
